@@ -11,17 +11,17 @@ Maquetación HTML/CSS con las clases Container, Nav, Main, Aside y Footer; sus f
 
 ### Maquetación Normal
 
-![Código HTML](https://github.com/WilliamQ16/Ejercicios-HTML-Versi-n-4.0.0/blob/main/Com_Readme/Cap1.png)
+![Código HTML](https://github.com/WilliamQ16/Ejecricios-HTML-Versi-n-4.0.0/blob/main/Com_Readme/Cap1.png)
 
-![Código CSS](https://github.com/WilliamQ16/Ejercicios-HTML-Versi-n-4.0.0/blob/main/Com_Readme/Cap2.png)
+![Código CSS](https://github.com/WilliamQ16/Ejecricios-HTML-Versi-n-4.0.0/blob/main/Com_Readme/Cap2.png)
 
-![Resultado](https://github.com/WilliamQ16/Ejercicios-HTML-Versi-n-4.0.0/blob/main/Com_Readme/Cap4.png)
+![Resultado](https://github.com/WilliamQ16/Ejecricios-HTML-Versi-n-4.0.0/blob/main/Com_Readme/Cap4.png)
 
 ### Maquetación con clase Aside
 
-![Código HTML](https://github.com/WilliamQ16/Ejercicios-HTML-Versi-n-4.0.0/blob/main/Com_Readme/Cap3.png)
+![Código HTML](https://github.com/WilliamQ16/Ejecricios-HTML-Versi-n-4.0.0/blob/main/Com_Readme/Cap3.png)
 
-![Resultado Aside](https://github.com/WilliamQ16/Ejercicios-HTML-Versi-n-4.0.0/blob/main/Com_Readme/Cap5.png)
+![Resultado Aside](https://github.com/WilliamQ16/Ejecricios-HTML-Versi-n-4.0.0/blob/main/Com_Readme/Cap5.png)
 
 
 
@@ -29,4 +29,4 @@ Maquetación HTML/CSS con las clases Container, Nav, Main, Aside y Footer; sus f
 
 Se adaptaron los ejercicios vistos en las versiones anteriores a este tipo de maquetación, generando resultados tal cual como se enseña acontinuación:
 
-![Resultado Ejercicios](https://github.com/WilliamQ16/Ejercicios-HTML-Versi-n-4.0.0/blob/main/Com_Readme/Cap6.png)
+![Resultado Ejercicios](https://github.com/WilliamQ16/Ejecricios-HTML-Versi-n-4.0.0/blob/main/Com_Readme/Cap6.png)
