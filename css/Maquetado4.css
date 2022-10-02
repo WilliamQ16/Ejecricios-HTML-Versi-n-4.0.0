@@ -1,0 +1,61 @@
+.container{
+
+    background: palegoldenrod;
+    width: 1000px;
+    height: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.header{
+
+    background: blue;
+    width: 1000px;
+    height: 250px;
+
+}
+
+.nav{
+
+    background: greenyellow;
+    width: 1000px;
+    height: 50px;
+
+}
+
+.aside_1{
+
+    background: rebeccapurple;
+    width: 200px;
+    height: 600px;
+    float: left;
+
+}
+
+.aside_2{
+
+    background: rebeccapurple;
+    width: 200px;
+    height: 600px;
+    float: right;
+
+}
+
+.main{
+
+    background: powderblue;
+    width: 600px;
+    height: 600px;
+    float: left;
+
+}
+
+.footer{
+
+    background: orchid;
+    width: 1000px;
+    height: 100px;
+    float: right;
+
+}

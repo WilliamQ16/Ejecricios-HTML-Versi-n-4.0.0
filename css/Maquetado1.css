@@ -1,0 +1,41 @@
+.container{
+
+    background: palegoldenrod;
+    width: 1000px;
+    height: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.header{
+
+    background: blue;
+    width: 1000px;
+    height: 250px;
+
+}
+
+.nav{
+
+    background: greenyellow;
+    width: 1000px;
+    height: 50px;
+
+}
+
+.main{
+
+    background: powderblue;
+    width: 1000px;
+    height: 600px;
+
+}
+
+.footer{
+
+    background: orchid;
+    width: 1000px;
+    height: 100px;
+
+}

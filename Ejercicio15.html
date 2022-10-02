@@ -1,0 +1,110 @@
+<!--
+    Entidad: Centro de Biotecnología Agropecuaria
+    Ficha: 2558346
+    Programa: Análisis y Desarrollo de Software - A.D.S.O
+    Autor: William David Garzón Quevedo
+    Objetivo: Usó de la etiqueta html, head, meta, title, body, p, Strong, em y del.
+    Fecha Creación: 30 de Julio del 2022
+    Versión: 3.0.0
+    Fecha de Modificación: 12 de Agosto del 2022
+
+-->
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Ejercicio15</title>
+    <link rel="stylesheet" href="css/Ejercicio15.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="header">
+        <h1>Ficha: 2558346</h1>
+      </div>
+
+      <div class="nav">
+        <p>Ejercicio 15</p>
+      </div>
+
+      <div class="main">
+        <h3>Información sobre el producto</h3>
+
+        <form action="#" method="post" enctype="multipart/form-data">
+          <fieldset>
+            <legend>Datos básicos</legend>
+
+            <label for="nombre">Nombre</label> <br />
+            <input
+              type="text"
+              name="nombre"
+              id="nombre"
+              size="50"
+              maxlength="250"
+            />
+
+            <br /><br />
+
+            <label for="descripcion">Descripción</label> <br />
+            <textarea
+              name="descripcion"
+              id="descripcion"
+              cols="40"
+              rows="5"
+            ></textarea>
+
+            <br /><br />
+
+            Foto <input type="file" name="foto" />
+
+            <br /><br />
+
+            <input name="contador" type="checkbox" value="si" /> Añadir contador
+            de visitas
+          </fieldset>
+
+          <fieldset>
+            <legend>Datos económicos</legend>
+
+            <label for="precio">Precio</label>
+            <input type="text" size="5" id="precio" name="precio" /> &euro;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+            <label for="impuestos">Impuestos</label>
+            <select id="impuestos" name="impuestos">
+              <option value="4">4%</option>
+              <option value="7">7%</option>
+              <option value="16">16%</option>
+              <option value="25">25%</option>
+            </select>
+
+            <br /><br />
+
+            <label>Promoción</label> <br />
+            <input
+              type="radio"
+              name="promocion"
+              value="ninguno"
+              checked="checked"
+            />
+            Ninguno <br />
+            <input type="radio" name="promocion" value="portes" /> Transporte
+            gratuito <br />
+            <input type="radio" name="promocion" value="descuento" /> Descuento
+            5%
+          </fieldset>
+        </form>
+      </div>
+
+      <div class="footer">
+        &nbsp;
+
+        <img src="img/Imagen16.png" id="w3" />
+
+        © William David Garzón Quevedo <br />
+
+        Todos los derechos reservados.
+      </div>
+    </div>
+  </body>
+</html>

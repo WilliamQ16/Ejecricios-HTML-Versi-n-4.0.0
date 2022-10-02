@@ -1,0 +1,71 @@
+.container{
+
+    background: palegoldenrod;
+    width: 1000px;
+    height: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.header{
+
+    background: rgb(0, 255, 191);
+    width: 1000px;
+    height: 250px;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 50px;
+
+}
+
+.nav{
+
+    background: rgb(47, 196, 255);
+    width: 1000px;
+    height: 50px;
+    float: right;
+    text-align: center;
+    font-size: 20px;
+
+}
+
+.main{
+
+    background: powderblue;
+    width: 1000px;
+    height: 650px;
+
+}
+
+.footer{
+
+    background: rgb(0, 255, 191);
+    width: 1000px;
+    height: 50px;
+    text-align: center;
+    padding-top: 50px;
+
+}
+
+#w3{
+
+    float: right;
+    width: 50px;
+    height: 50px;
+
+}
+
+#titulo{
+
+    font-size: 30px;
+    text-align: center;
+
+}
+
+#cuadro{
+
+    padding-left: 15%;
+
+}
